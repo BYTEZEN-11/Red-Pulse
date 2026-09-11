@@ -130,3 +130,5 @@
 
 ## 65. Add filter sidebar for donor search
 
+## 66. Create blood type info tooltip
+
