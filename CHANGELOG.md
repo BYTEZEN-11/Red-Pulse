@@ -96,3 +96,5 @@
 
 ## 48. Implement dark mode toggle
 
+## 49. Add toast notification system
+
