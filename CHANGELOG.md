@@ -138,3 +138,5 @@
 
 ## 69. Add confirmation dialog component
 
+## 70. Create footer with quick links
+
