@@ -176,3 +176,5 @@
 
 ## 88. Implement Google Analytics setup
 
+## 89. Add robots.txt configuration
+
