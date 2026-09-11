@@ -90,3 +90,5 @@
 
 ## 45. Add loading spinner component
 
+## 46. Create dashboard overview cards
+
