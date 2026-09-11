@@ -104,3 +104,5 @@
 
 ## 52. Improve table component with sorting
 
+## 53. Add profile avatar upload feature
+
