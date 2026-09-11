@@ -52,3 +52,5 @@
 
 ## 26. Create notification preferences model
 
+## 27. Add blood camp registration feature
+
