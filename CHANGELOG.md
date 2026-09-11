@@ -166,3 +166,5 @@
 
 ## 83. Add privacy policy content
 
+## 84. Improve image optimization settings
+
