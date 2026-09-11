@@ -170,3 +170,5 @@
 
 ## 85. Add lazy loading for images
 
+## 86. Create sitemap for SEO
+
