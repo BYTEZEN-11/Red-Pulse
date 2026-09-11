@@ -66,3 +66,5 @@
 
 ## 33. Add unit tests for auth module
 
+## 34. Create swagger API documentation
+
