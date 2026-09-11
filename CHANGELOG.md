@@ -158,3 +158,5 @@
 
 ## 79. Add session timeout warning
 
+## 80. Implement auto-logout on inactivity
+
