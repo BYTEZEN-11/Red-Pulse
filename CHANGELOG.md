@@ -152,3 +152,5 @@
 
 ## 76. Improve color theme consistency
 
+## 77. Add font size accessibility option
+
