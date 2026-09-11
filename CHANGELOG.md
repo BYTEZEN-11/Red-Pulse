@@ -36,3 +36,5 @@
 
 ## 18. Update environment variable examples
 
+## 19. Add rate limiting to API endpoints
+
