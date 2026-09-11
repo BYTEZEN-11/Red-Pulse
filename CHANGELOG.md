@@ -20,3 +20,5 @@
 
 ## 10. Update CORS configuration settings
 
+## 11. Add logging middleware for requests
+
