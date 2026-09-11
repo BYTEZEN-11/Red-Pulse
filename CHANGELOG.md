@@ -12,3 +12,5 @@
 
 ## 6. Refactor database connection logic
 
+## 7. Add blood request model schema
+
