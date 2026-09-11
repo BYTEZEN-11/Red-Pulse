@@ -120,3 +120,5 @@
 
 ## 60. Improve mobile responsiveness
 
+## 61. Add skeleton loader for data fetching
+
