@@ -48,3 +48,5 @@
 
 ## 24. Implement blood request status tracking
 
+## 25. Add user profile update endpoint
+
