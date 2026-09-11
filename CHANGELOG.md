@@ -124,3 +124,5 @@
 
 ## 62. Create custom 404 error page
 
+## 63. Add success confirmation animations
+
