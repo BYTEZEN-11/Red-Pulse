@@ -110,3 +110,5 @@
 
 ## 55. Add chart for donation statistics
 
+## 56. Implement infinite scroll for lists
+
