@@ -40,3 +40,5 @@
 
 ## 20. Implement soft delete for records
 
+## 21. Add blood donation history model
+
