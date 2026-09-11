@@ -22,3 +22,5 @@
 
 ## 11. Add logging middleware for requests
 
+## 12. Create blood inventory controller
+
