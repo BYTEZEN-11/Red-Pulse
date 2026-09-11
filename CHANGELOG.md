@@ -122,3 +122,5 @@
 
 ## 61. Add skeleton loader for data fetching
 
+## 62. Create custom 404 error page
+
