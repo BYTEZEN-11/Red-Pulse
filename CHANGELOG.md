@@ -4,3 +4,5 @@
 
 ## 2. Update README with project overview
 
+## 3. Add input validation for blood group field
+
