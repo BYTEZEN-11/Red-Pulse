@@ -140,3 +140,5 @@
 
 ## 70. Create footer with quick links
 
+## 71. Add breadcrumb navigation component
+
