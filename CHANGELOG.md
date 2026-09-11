@@ -68,3 +68,5 @@
 
 ## 34. Create swagger API documentation
 
+## 35. Add Docker health check configuration
+
