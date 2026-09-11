@@ -30,3 +30,5 @@
 
 ## 15. Add blood type compatibility check
 
+## 16. Create hospital registration endpoint
+
