@@ -118,3 +118,5 @@
 
 ## 59. Add blood camp event calendar
 
+## 60. Improve mobile responsiveness
+
