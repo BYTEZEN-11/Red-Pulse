@@ -126,3 +126,5 @@
 
 ## 63. Add success confirmation animations
 
+## 64. Implement search bar with debounce
+
