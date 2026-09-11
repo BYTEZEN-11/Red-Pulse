@@ -108,3 +108,5 @@
 
 ## 54. Create report download as PDF
 
+## 55. Add chart for donation statistics
+
