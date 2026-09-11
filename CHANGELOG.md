@@ -182,3 +182,5 @@
 
 ## 91. Add GitHub Actions workflow file
 
+## 92. Improve test coverage reporting
+
