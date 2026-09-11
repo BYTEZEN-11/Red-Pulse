@@ -142,3 +142,5 @@
 
 ## 71. Add breadcrumb navigation component
 
+## 72. Implement tab navigation component
+
