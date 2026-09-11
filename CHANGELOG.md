@@ -146,3 +146,5 @@
 
 ## 73. Add blood donation tips section
 
+## 74. Create FAQ accordion component
+
