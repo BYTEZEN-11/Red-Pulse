@@ -164,3 +164,5 @@
 
 ## 82. Create terms of service page
 
+## 83. Add privacy policy content
+
