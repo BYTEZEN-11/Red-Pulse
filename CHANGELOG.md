@@ -154,3 +154,5 @@
 
 ## 77. Add font size accessibility option
 
+## 78. Create print-friendly page styles
+
