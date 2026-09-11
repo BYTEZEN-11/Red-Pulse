@@ -178,3 +178,5 @@
 
 ## 89. Add robots.txt configuration
 
+## 90. Create CI/CD pipeline config
+
