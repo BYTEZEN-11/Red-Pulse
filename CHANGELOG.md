@@ -160,3 +160,5 @@
 
 ## 80. Implement auto-logout on inactivity
 
+## 81. Add cookie consent banner
+
