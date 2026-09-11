@@ -28,3 +28,5 @@
 
 ## 14. Improve password hashing strength
 
+## 15. Add blood type compatibility check
+
