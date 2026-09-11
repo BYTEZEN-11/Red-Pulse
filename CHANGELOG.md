@@ -192,3 +192,5 @@
 
 ## 96. Improve deployment guide in README
 
+## 97. Add contributing guidelines
+
