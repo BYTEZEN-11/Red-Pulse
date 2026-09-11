@@ -26,3 +26,5 @@
 
 ## 13. Add email notification service
 
+## 14. Improve password hashing strength
+
