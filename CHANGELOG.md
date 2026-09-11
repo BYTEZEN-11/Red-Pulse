@@ -64,3 +64,5 @@
 
 ## 32. Improve API response format consistency
 
+## 33. Add unit tests for auth module
+
