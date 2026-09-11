@@ -188,3 +188,5 @@
 
 ## 94. Create code formatting standards
 
+## 95. Add changelog documentation
+
