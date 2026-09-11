@@ -94,3 +94,5 @@
 
 ## 47. Add responsive navbar component
 
+## 48. Implement dark mode toggle
+
