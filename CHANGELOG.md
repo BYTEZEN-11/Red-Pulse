@@ -92,3 +92,5 @@
 
 ## 46. Create dashboard overview cards
 
+## 47. Add responsive navbar component
+
