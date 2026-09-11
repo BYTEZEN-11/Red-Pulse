@@ -196,3 +196,5 @@
 
 ## 98. Create issue templates for GitHub
 
+## 99. Add security policy documentation
+
