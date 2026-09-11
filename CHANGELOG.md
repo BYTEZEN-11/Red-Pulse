@@ -6,3 +6,5 @@
 
 ## 3. Add input validation for blood group field
 
+## 4. Improve error handling in auth middleware
+
