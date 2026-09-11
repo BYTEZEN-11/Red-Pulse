@@ -186,3 +186,5 @@
 
 ## 93. Add linting rules configuration
 
+## 94. Create code formatting standards
+
