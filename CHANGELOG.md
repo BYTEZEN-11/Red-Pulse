@@ -162,3 +162,5 @@
 
 ## 81. Add cookie consent banner
 
+## 82. Create terms of service page
+
