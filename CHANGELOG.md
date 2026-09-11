@@ -38,3 +38,5 @@
 
 ## 19. Add rate limiting to API endpoints
 
+## 20. Implement soft delete for records
+
