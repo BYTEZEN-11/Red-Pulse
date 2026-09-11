@@ -106,3 +106,5 @@
 
 ## 53. Add profile avatar upload feature
 
+## 54. Create report download as PDF
+
