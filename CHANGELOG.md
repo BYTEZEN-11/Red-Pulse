@@ -156,3 +156,5 @@
 
 ## 78. Create print-friendly page styles
 
+## 79. Add session timeout warning
+
