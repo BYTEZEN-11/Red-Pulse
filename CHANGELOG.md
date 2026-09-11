@@ -172,3 +172,5 @@
 
 ## 86. Create sitemap for SEO
 
+## 87. Add meta tags for social sharing
+
