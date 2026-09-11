@@ -136,3 +136,5 @@
 
 ## 68. Improve button hover animations
 
+## 69. Add confirmation dialog component
+
