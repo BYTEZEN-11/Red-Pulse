@@ -144,3 +144,5 @@
 
 ## 72. Implement tab navigation component
 
+## 73. Add blood donation tips section
+
