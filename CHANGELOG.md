@@ -184,3 +184,5 @@
 
 ## 92. Improve test coverage reporting
 
+## 93. Add linting rules configuration
+
