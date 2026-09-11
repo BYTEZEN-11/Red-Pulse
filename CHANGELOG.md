@@ -50,3 +50,5 @@
 
 ## 25. Add user profile update endpoint
 
+## 26. Create notification preferences model
+
