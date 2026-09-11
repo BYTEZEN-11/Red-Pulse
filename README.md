@@ -186,7 +186,7 @@ Ensure the following tools are installed on your machine:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/suraj-savle/blood-bank-management-system.git
+git clone https://github.com/NETIZEN-11/Blood-Management-System.git
 cd blood-bank-management-system
 ```
 
@@ -278,7 +278,7 @@ Use the pre-configured credentials below to log into the administrative portal:
 
 | Role | Email | Password | Access Dashboard |
 | :--- | :--- | :--- | :--- |
-| **System Administrator** | `suraj@admin.com` | `bbms@admin` | `/admin` |
+| **System Administrator** | `nitesh@admin.com` | `bbms@admin` | `/admin` |
 
 > [!TIP]
 > You can register new **Donor** and **Hospital / Facility** accounts directly from the UI registration portal.

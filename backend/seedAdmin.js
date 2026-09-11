@@ -10,13 +10,13 @@ mongoose.connect(process.env.MONGO_URI, { useNewUrlParser: true, useUnifiedTopol
 
 const seedAdmin = async () => {
   try {
-    // Remove existing admin with same email
-    await Admin.deleteMany({ email: "suraj@admin.com" });
+    // Remove existing admin
+    await Admin.deleteMany({ email: { $in: ["suraj@admin.com", "nitesh@admin.com"] } });
 
     // Create new admin
     const admin = new Admin({
-      name: "Suraj Savle",
-      email: "suraj@admin.com",
+      name: "Nitesh Singh",
+      email: "nitesh@admin.com",
       password: "bbms@admin", // will be hashed automatically
       role: "admin",
     });
