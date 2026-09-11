@@ -10,3 +10,5 @@
 
 ## 5. Add donor registration API route
 
+## 6. Refactor database connection logic
+
