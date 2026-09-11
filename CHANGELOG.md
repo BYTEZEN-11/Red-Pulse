@@ -174,3 +174,5 @@
 
 ## 87. Add meta tags for social sharing
 
+## 88. Implement Google Analytics setup
+
