@@ -88,3 +88,5 @@
 
 ## 44. Improve login page UI design
 
+## 45. Add loading spinner component
+
