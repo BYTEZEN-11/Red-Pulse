@@ -132,3 +132,5 @@
 
 ## 66. Create blood type info tooltip
 
+## 67. Add accessibility ARIA labels
+
