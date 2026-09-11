@@ -86,3 +86,5 @@
 
 ## 43. Add blood group badge component
 
+## 44. Improve login page UI design
+
