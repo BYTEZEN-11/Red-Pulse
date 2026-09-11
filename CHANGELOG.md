@@ -190,3 +190,5 @@
 
 ## 95. Add changelog documentation
 
+## 96. Improve deployment guide in README
+
