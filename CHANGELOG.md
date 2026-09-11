@@ -84,3 +84,5 @@
 
 ## 42. Create reusable form components
 
+## 43. Add blood group badge component
+
