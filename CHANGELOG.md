@@ -194,3 +194,5 @@
 
 ## 97. Add contributing guidelines
 
+## 98. Create issue templates for GitHub
+
