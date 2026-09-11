@@ -168,3 +168,5 @@
 
 ## 84. Improve image optimization settings
 
+## 85. Add lazy loading for images
+
