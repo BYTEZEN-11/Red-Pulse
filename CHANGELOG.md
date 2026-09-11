@@ -18,3 +18,5 @@
 
 ## 9. Add pagination support to donor list
 
+## 10. Update CORS configuration settings
+
