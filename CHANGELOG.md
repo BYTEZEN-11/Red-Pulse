@@ -8,3 +8,5 @@
 
 ## 4. Improve error handling in auth middleware
 
+## 5. Add donor registration API route
+
