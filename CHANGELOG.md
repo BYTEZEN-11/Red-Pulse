@@ -198,3 +198,5 @@
 
 ## 99. Add security policy documentation
 
+## 100. Update license year to 2025
+
